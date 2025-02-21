@@ -1,17 +1,17 @@
 {
     "name": "Fun Coding Challenge",
     "description": "Sends a random coding challenge every day.",
-    "author": "codenamemomi",
-    "integration_type": "interval",
+    "type": "interval",
     "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/check",
     "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com",
-    "data": {}, 
+    "data": {},
     "settings": [
       {
         "field_label": "Time Interval",
         "field_name": "time_interval",
         "field_type": "text",
-        "default_value": "24h"
+        "default_value": "24h",
+        "description": "How often the coding challenge should be sent (for example, 24h, 1h, etc.)"
       }
     ]
   }
