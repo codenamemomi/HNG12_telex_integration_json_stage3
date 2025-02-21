@@ -28,7 +28,7 @@
           "default": "30"
         }
       ],
-      "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com",
+      "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/receive",
       "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/check"
     }
   }
