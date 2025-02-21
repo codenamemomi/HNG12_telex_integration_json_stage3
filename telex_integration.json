@@ -1,0 +1,15 @@
+{
+    "name": "Fun Coding Challenge",
+    "description": "Sends a random coding challenge every day.",
+    "type": "interval",
+    "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/check",
+    "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com",
+    "settings": {
+      "time_interval": {
+        "label": "Time Interval",
+        "type": "text",
+        "default": "24h"
+      }
+    }
+  }
+  
