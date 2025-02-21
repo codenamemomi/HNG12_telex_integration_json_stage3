@@ -1,33 +1,32 @@
 {
-    "data": {
-      "date": {
-        "created_at": "2025-02-21",
-        "updated_at": "2025-02-21"
-      },
-      "description": "Sends a random coding challenge every day.",
-      "app_name": "Fun Coding Challenge",
-      "app_logo": "https://res.cloudinary.com/drujauolr/image/upload/v1740162155/interval_clo1tq.webp",
-      "app_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com",
-      "background_color": "#fff",
-      "is_active": true,
-      "integration_type": "interval",
-      "integration_category": "Task Automation",
-      "key_features": [
-        "Automated coding challenges",
-        "Webhook support",
-        "Scheduled messages"
-      ],
-      "author": "codenamemomi",
-      "settings": [
-        {
-          "label": "Time Interval",
-          "type": "number",
-          "required": true,
-          "default": 30
-        }
-      ],
-      "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com",
-      "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/check"
-    }
+  "data": {
+    "date": {
+      "created_at": "2025-02-21",
+      "updated_at": "2025-02-21"
+    },
+    "descriptions": "Sends a random coding challenge every day.",
+    "app_name": "Fun Coding Challenge",
+    "app_logo": "https://res.cloudinary.com/drujauolr/image/upload/v1740162155/interval_clo1tq.webp",
+    "app_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com",
+    "background_color": "#fff",
+    "is_active": true,
+    "integration_type": "interval",
+    "integration_category": "Task Automation",
+    "key_features": [
+      "Automated coding challenges",
+      "Webhook support",
+      "Scheduled messages"
+    ],
+    "author": "codenamemomi",
+    "settings": [
+      {
+        "label": "Time Interval",
+        "type": "number",
+        "required": true,
+        "default": 30
+      }
+    ],
+    "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com",
+    "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/check"
   }
-  
+}
