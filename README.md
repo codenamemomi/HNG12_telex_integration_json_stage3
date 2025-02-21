@@ -12,8 +12,8 @@ Sends a random coding challenge every day.
 To install the project, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <https://github.com/codenamemomi/HNG12_fun_c0ding_tasks_stage3.git>
+cd <HNG12_fun_c0ding_tasks_stage3>
 # Install dependencies (if applicable)
 ```
 
