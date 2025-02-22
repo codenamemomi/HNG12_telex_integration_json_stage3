@@ -28,7 +28,7 @@
           "default": "* * * * *"
         }
       ],
-      "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/receive",
+      "target_url": "",
       "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/tick",
       "integration_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/integration.json"
     }
