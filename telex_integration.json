@@ -23,13 +23,13 @@
       "settings": [
         {
           "label": "Time Interval",
-          "type": "number",
+          "type": "text",
           "required": true,
-          "default": "1m"
+          "default": "1min"
         }
       ],
       "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/receive",
-      "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/check",
+      "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/tick",
       "integration_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/integration.json"
     }
   }
