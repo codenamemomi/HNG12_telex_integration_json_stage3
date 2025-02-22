@@ -25,10 +25,11 @@
           "label": "Time Interval",
           "type": "number",
           "required": true,
-          "default": "30"
+          "default": "24"
         }
       ],
       "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/receive",
-      "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/check"
+      "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/check",
+      "integration_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/integration.json"
     }
   }
