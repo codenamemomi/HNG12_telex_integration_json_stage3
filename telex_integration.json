@@ -25,7 +25,7 @@
           "label": "Time Interval",
           "type": "text",
           "required": true,
-          "default": "1min"
+          "default": "1m"
         }
       ],
       "target_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/receive",
