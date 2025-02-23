@@ -1,35 +1,37 @@
 {
-    "data": {
-      "date": {
-        "created_at": "2025-02-21",
-        "updated_at": "2025-02-21"
-      },
-      "descriptions": {
-        "app_name": "Fun Coding Challenge",
-        "app_description": "Sends a random coding challenge every day.\n",
-        "app_logo": "https://res.cloudinary.com/drujauolr/image/upload/v1740162155/interval_clo1tq.webp",
-        "app_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com",
-        "background_color": "#fff"
-      },
-      "is_active": true,
-      "integration_type": "interval",
-      "integration_category": "Task Automation",
-      "key_features": [
-        "Automated coding challenges",
-        "Webhook support",
-        "Scheduled messages"
-      ],
-      "author": "codenamemomi",
-      "settings": [
+  "data":{
+     "date":{
+        "created_at":"2025-2-22",
+        "updated_at":"2025-2-22"
+     },
+     "descriptions":{
+        "app_name":"Code Refactor Insight",
+        "app_description":"Code Refactor Insight is a tool that helps you refactor your codebase by providing insights on how to improve your codebase.",
+        "app_url":"https://coderefactorinsight-s3.onrender.com",
+        "app_logo":"https://res.cloudinary.com/drujauolr/image/upload/v1740249649/942a2999-c065-47b3-adb0-3222599294eb_rsoloz.jpg",
+        "background_color":"#f0f0f0"
+     },
+     "is_active":true,
+     "integration_type":"interval",
+     "integration_category":"Monitoring & Logging",
+     "key_features":[
+        "Periodic analysis of recent code commits",
+        "AI-powered code review with improvement suggestions",
+        "Performance optimization insights",
+        "Best practices recommendations for readability and maintainability",
+        "Seamless integration with Git repositories"
+     ],
+     "author":"codename",
+     "website":"https://coderefactorinsight-s3.onrender.com",
+     "settings":[
         {
-          "label": "Time Interval",
-          "type": "text",
-          "required": true,
-          "default": "* * * * *"
+           "label":"interval",
+           "type":"text",
+           "required":true,
+           "default":"* * * * *"
         }
-      ],
-      "target_url": "",
-      "tick_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/tick",
-      "integration_url": "https://hng12-fun-c0ding-tasks-stage3.onrender.com/integration.json"
-    }
+     ],
+     "target_url":"",
+     "tick_url":"https://coderefactorinsight-s3.onrender.com/tick"
   }
+}
